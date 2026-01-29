@@ -1,6 +1,7 @@
 package Topic01.Exercises;
 
 import java.util.Scanner;
+
 /* Write a program that asks user to input a list of N names using the keyboard, then user will input a name for searching.
 The program should print out the position of this name in the list. In case the name doesn’t appear in the list, the program should print out value -1. */
 public class Exercise04 {
