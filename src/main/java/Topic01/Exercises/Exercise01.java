@@ -23,4 +23,9 @@ public class Exercise01 {
         System.out.println("\nNumber of characters in your name: " + characterCount);
 
     }
+
+    public static void helloWorld() {
+        System.out.println("Hello World");
+    }
+
 }
