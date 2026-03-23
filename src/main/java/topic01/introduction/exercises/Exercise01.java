@@ -1,4 +1,4 @@
-package Topic01.Exercises;
+package topic01.introduction.exercises;
 
 import java.util.Scanner;
 /* Write a program that asks user to input a name (a string may contain characters and spaces) using the keyboard.

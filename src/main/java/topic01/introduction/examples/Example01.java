@@ -1,4 +1,4 @@
-package Topic01.Examples;
+package topic01.introduction.examples;
 
 import java.util.Scanner;
 import java.lang.String;

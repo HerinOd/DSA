@@ -1,4 +1,4 @@
-package Topic01.Exercises;
+package topic01.introduction.exercises;
 
 import java.util.Arrays;
 import java.util.Scanner;

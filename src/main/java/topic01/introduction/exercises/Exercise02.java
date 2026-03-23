@@ -1,4 +1,4 @@
-package Topic01.Exercises;
+package topic01.introduction.exercises;
 
 import java.util.Scanner;
 /* Write a program that asks user to input a list of N integers using the keyboard.

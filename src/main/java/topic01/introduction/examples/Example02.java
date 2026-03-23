@@ -1,4 +1,4 @@
-package Topic01.Examples;
+package topic01.introduction.examples;
 
 import java.util.Random;
 import java.util.Scanner;

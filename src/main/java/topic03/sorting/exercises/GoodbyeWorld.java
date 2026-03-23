@@ -1,4 +1,4 @@
-package Topic02.Examples;
+package topic03.sorting.exercises;
 
 public class GoodbyeWorld {
     public static void main(String[] args) {
