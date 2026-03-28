@@ -10,8 +10,8 @@ public class ImprovedGCD {
         int m = sc.nextInt();
         System.out.print("n = ");
         int n = sc.nextInt();
-        System.out.printf("The value of gcd(%d, %d) is %d", m, n, recursiveGCD(m, n));
-        System.out.printf("\nThe value of gcd(%d, %d) is %d", m, n, whileLoopGCD(m, n));
+        System.out.printf("The value of gcd(%d, %d) is (recursion) %d", m, n, recursiveGCD(m, n));
+        System.out.printf("\nThe value of gcd(%d, %d) is (while loop) %d", m, n, whileLoopGCD(m, n));
     }
 
     public static int recursiveGCD(int m, int n) {
